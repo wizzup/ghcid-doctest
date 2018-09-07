@@ -4,6 +4,9 @@ module Main where
 --
 -- >>> 1 + 1
 -- 1
+--
+-- >>> 2 + 2
+-- 3
 
 main :: IO ()
 main = putStrLn "Hello, Haskell!"
